@@ -4,7 +4,7 @@
 > GitHub 的 issue 并非被设计为打卡工具！仅用于「打卡」「留名」的 issue 将会被直接删除。
 
 > [!IMPORTANT]
-> 若您在加密市场进行交易，另可参考 [Defense in Predatory Markets: A Differential Game Framework for AMM Liquidity via Uniswap V4 Hooks](https://github.com/imbue-bit/AlphaGPT/blob/main/paper/20251226.pdf) 进行做市。笔者懒得向会议投稿了。若有疑问，请联系 imbue2025@outlook.com / 群聊 838641831.
+> 若您在加密市场进行交易，另可参考 [Defense in Predatory Markets: A Differential Game Framework for AMM Liquidity via Uniswap V4 Hooks](https://github.com/imbue-bit/AlphaGPT/blob/main/paper/20251226.pdf) 进行做市。笔者懒得向会议投稿了。若有疑问，请联系 imbue2025@outlook.com / QQ 群租 838641831.
 
 ## What happened？
 
